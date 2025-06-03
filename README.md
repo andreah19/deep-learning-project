@@ -9,7 +9,7 @@ project.ipynb: follow tutorial from TensorFlow for time series prediction of sel
 #### Dataset
 NASA Battery Dataset from Kaggle (https://www.kaggle.com/datasets/patrickfleith/nasa-battery-dataset/data)
 #### Referenced Code
-Contains code snippets taken from TensorFlow Time Series Forecasting Tutorial (https://www.tensorflow.org/tutorials/structured_data/time_series). \
+Contains code snippets taken from TensorFlow Time Series Forecasting Tutorial (https://www.tensorflow.org/tutorials/structured_data/time_series). 
 Note that code samples from TensorFlow tutorials are licensed under the Apache 2.0 License (https://www.apache.org/licenses/LICENSE-2.0). \
 Portions of this page are reproduced from and modifications based on work created and shared by Google (https://developers.google.com/readme/policies) 
-and used according to terms described in the Creative Commons 4.0 Attribution License (Creative Commons 4.0 Attribution License). \
+and used according to terms described in the Creative Commons 4.0 Attribution License (Creative Commons 4.0 Attribution License).
