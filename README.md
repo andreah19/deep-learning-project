@@ -1,6 +1,6 @@
 # deep-learning-project
 ## Training an LSTM Network to Predict Li-Ion Battery Performance Over Time
-Name: Andrea Hwang\
+Name: Andrea H.\
 Presentation Date: June 3, 2025\
 Class: AISV.X401 at UCSC Silicon Valley Extension
 ### Project Repository
